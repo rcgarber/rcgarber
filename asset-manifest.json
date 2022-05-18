@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rcgarber/static/css/main.c281511b.css",
+    "main.js": "/rcgarber/static/js/main.f8258243.js",
+    "static/js/787.c953687d.chunk.js": "/rcgarber/static/js/787.c953687d.chunk.js",
+    "index.html": "/rcgarber/index.html",
+    "main.c281511b.css.map": "/rcgarber/static/css/main.c281511b.css.map",
+    "main.f8258243.js.map": "/rcgarber/static/js/main.f8258243.js.map",
+    "787.c953687d.chunk.js.map": "/rcgarber/static/js/787.c953687d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c281511b.css",
+    "static/js/main.f8258243.js"
+  ]
+}
