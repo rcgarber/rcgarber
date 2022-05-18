@@ -5,7 +5,7 @@ const Output = () => {
     <div>
     <table>
     <tr>
-        <td><input colspan="5" id="box" type="text" name="answer" /></td>
+        <td><input colspan="5" id="box" data-testid="box" type="text" name="answer" /></td>
     </tr>
     </table>
     </div>
